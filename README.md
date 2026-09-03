@@ -15,6 +15,7 @@ Crafting digital experiences from idea to scale. I ship AI-first products on the
 ![JavaScript](https://img.shields.io/badge/JavaScript-F6F8FA?style=for-the-badge&logo=javascript&logoColor=24292F)
 ![React](https://img.shields.io/badge/React-F6F8FA?style=for-the-badge&logo=react&logoColor=24292F)
 ![Next.js](https://img.shields.io/badge/Next.js-F6F8FA?style=for-the-badge&logo=nextdotjs&logoColor=24292F)
+![Astro](https://img.shields.io/badge/Astro-F6F8FA?style=for-the-badge&logo=astro&logoColor=24292F)
 ![Vue.js](https://img.shields.io/badge/Vue.js-F6F8FA?style=for-the-badge&logo=vuedotjs&logoColor=24292F)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_Css-F6F8FA?style=for-the-badge&logo=tailwindcss&logoColor=24292F)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-F6F8FA?style=for-the-badge&logo=shadcnui&logoColor=24292F)
