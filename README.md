@@ -36,20 +36,22 @@ Crafting digital experiences from idea to scale. I ship AI-first products on the
 ![AI SDK](https://img.shields.io/badge/AI_SDK-F6F8FA?style=for-the-badge&logo=vercel&logoColor=24292F)
 ![Mastra][mastra]
 
-![Platform & Services](https://img.shields.io/badge/PLATFORM_%26_SERVICES-EAEEF2?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-F6F8FA?style=for-the-badge&logo=vercel&logoColor=24292F)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F6F8FA?style=for-the-badge&logo=cloudflare&logoColor=24292F)
-![Supabase](https://img.shields.io/badge/Supabase-F6F8FA?style=for-the-badge&logo=supabase&logoColor=24292F)
+![Auth & Payments](https://img.shields.io/badge/AUTH_%26_PAYMENTS-EAEEF2?style=for-the-badge)
 ![Clerk](https://img.shields.io/badge/Clerk-F6F8FA?style=for-the-badge&logo=clerk&logoColor=24292F)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-F6F8FA?style=for-the-badge&logo=betterauth&logoColor=24292F)
 ![Stripe](https://img.shields.io/badge/Stripe-F6F8FA?style=for-the-badge&logo=stripe&logoColor=24292F)
 ![Polar][polar]
 
+![Platform](https://img.shields.io/badge/PLATFORM-EAEEF2?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-F6F8FA?style=for-the-badge&logo=vercel&logoColor=24292F)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F6F8FA?style=for-the-badge&logo=cloudflare&logoColor=24292F)
+![Supabase](https://img.shields.io/badge/Supabase-F6F8FA?style=for-the-badge&logo=supabase&logoColor=24292F)
+![Docker](https://img.shields.io/badge/Docker-F6F8FA?style=for-the-badge&logo=docker&logoColor=24292F)
+
 ![Tooling](https://img.shields.io/badge/TOOLING-EAEEF2?style=for-the-badge)
 ![Bun](https://img.shields.io/badge/Bun-F6F8FA?style=for-the-badge&logo=bun&logoColor=24292F)
 ![pnpm](https://img.shields.io/badge/pnpm-F6F8FA?style=for-the-badge&logo=pnpm&logoColor=24292F)
 ![Turborepo](https://img.shields.io/badge/Turborepo-F6F8FA?style=for-the-badge&logo=turborepo&logoColor=24292F)
-![Docker](https://img.shields.io/badge/Docker-F6F8FA?style=for-the-badge&logo=docker&logoColor=24292F)
 
 ## Selected work
 
