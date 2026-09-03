@@ -2,7 +2,7 @@
 
 **Full Stack Developer · AI Engineer** — Stuttgart, Germany
 
-![Open to work](https://img.shields.io/badge/Open_to_work-24292F?style=for-the-badge)
+![Open to work](https://img.shields.io/badge/%E2%97%8F-Open_to_work-F6F8FA?style=for-the-badge&labelColor=22C55E)
 ![Remote](https://img.shields.io/badge/Remote-F6F8FA?style=for-the-badge)
 ![Stuttgart, DE](https://img.shields.io/badge/Stuttgart%2C_DE-F6F8FA?style=for-the-badge)
 
@@ -36,7 +36,7 @@ Crafting digital experiences from idea to scale. I ship AI-first products on the
 ## Selected work
 
 | Project | What it is |
-| --- | --- |
+| :--- | :--- |
 | **[Ora Mail](https://useora.co)** | AI email client for Gmail, Outlook and IMAP. Auto-sorts the inbox, drafts replies in your writing style, and summarizes long threads. |
 | **[IndieWrapped](https://indiewrapped.com)** | Year in review for indie hackers. Visualize your progress and celebrate your wins with AI-powered insights. |
 | **[FastDomain](https://fastdomain.io)** | Real-time domain price comparison across registrars, plus an AI domain name generator. |
