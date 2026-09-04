@@ -1,0 +1,6 @@
+interface:
+  display_name: "Niggo2k"
+  short_description: "Repo-specific patterns and workflows for Niggo2k"
+  default_prompt: "Use the Niggo2k repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
